@@ -1,0 +1,487 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="242aca0baf4ee42d962b0cbc339b3465",Ghost
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/197798436?profile=pass
+#EXTINF:-1 tvg-id="4949306b11c1e5a110c5df5a690be0cf",Ghost
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1798326601?profile=pass
+#EXTINF:-1 tvg-id="97d78ffb1aad449d2b04d4d83d440b94",Ghost
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2073024407?profile=pass
+#EXTINF:-1 tvg-id="339808b891eb306bf84fdef1f5ab18d6" tvg-chno="1",Rai 1 HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/940087347?profile=pass
+#EXTINF:-1 tvg-id="a0c990a6ec8890b9b9c39a86a3873a24" tvg-chno="2",Rai 2 HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/647023008?profile=pass
+#EXTINF:-1 tvg-id="64c5242afa83ef551371e464caa898c8" tvg-chno="3",Rai 3 TGR Lazio
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/707052900?profile=pass
+#EXTINF:-1 tvg-id="b5382652c67c4823a051c1293cd69e0a" tvg-chno="3",Rai 3 TGR Toscana
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1378236597?profile=pass
+#EXTINF:-1 tvg-id="4d4d3762873059c4b3eff9961c18dcb4" tvg-chno="3",Rai 3 TGR Umbria
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1647791437?profile=pass
+#EXTINF:-1 tvg-id="be9832e7bc45e39ec9ea8072982f623d" tvg-chno="7",LA7 HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1731369150?profile=pass
+#EXTINF:-1 tvg-id="0bb9d924be0a0b27fbf300da1613c845" tvg-chno="8",TV8 HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/618248459?profile=pass
+#EXTINF:-1 tvg-id="40e576e4df0fa0dda44249fad624d650" tvg-chno="9",NOVE
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1685513536?profile=pass
+#EXTINF:-1 tvg-id="5d3f2c4c49a40da3b077c3747db1cad4" tvg-chno="10",CANALE 10 HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1277968221?profile=pass
+#EXTINF:-1 tvg-id="cdd6e522a8f24bc665775e4db11396bc" tvg-chno="11",GOLD TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/585488077?profile=pass
+#EXTINF:-1 tvg-id="1b18ba38614a02d457cd2974405ea556" tvg-chno="12",Teleuniverso HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/951719963?profile=pass
+#EXTINF:-1 tvg-id="7f55a2d0197ad08eed999ceac33b0f46" tvg-chno="13",LAZIO TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1352815999?profile=pass
+#EXTINF:-1 tvg-id="12c61ecae7340e6869a0b0c46dd8528f" tvg-chno="14",RadioRomaTelevision
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1243530770?profile=pass
+#EXTINF:-1 tvg-id="b75091e5284244327036527a586a4a1c" tvg-chno="15",Radio Roma
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1704022199?profile=pass
+#EXTINF:-1 tvg-id="a8a8ba3f071606d91cad58adebb2c476" tvg-chno="16",TeleRoma 56
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1069197480?profile=pass
+#EXTINF:-1 tvg-id="362dfbd35d7410e0b52aff0ae6e3d539" tvg-chno="17",T9
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1408970038?profile=pass
+#EXTINF:-1 tvg-id="760fdb9546d864d1bb08af31e55d5c16" tvg-chno="18",Teleambiente
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/366677878?profile=pass
+#EXTINF:-1 tvg-id="9a939ff3654dab6eff14637310bf7a58" tvg-chno="19",CANALE 21 EXTRA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1939837850?profile=pass
+#EXTINF:-1 tvg-id="7d85fd1cc8f75a0e2b690ce4e17e7685" tvg-chno="21",Rai 4
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/486376829?profile=pass
+#EXTINF:-1 tvg-id="34a82825cea36a86b3dc862539645c60" tvg-chno="22",Iris
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/623421492?profile=pass
+#EXTINF:-1 tvg-id="1d2688af74064102f121b7cf94b812f8" tvg-chno="23",Rai 5
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/797451805?profile=pass
+#EXTINF:-1 tvg-id="850f1dc620bd778f87c22d3f24bbaefa" tvg-chno="24",Rai Movie
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1176309637?profile=pass
+#EXTINF:-1 tvg-id="24f36a447b7d440199cd4f22e40f917f" tvg-chno="25",Rai Premium
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1147859748?profile=pass
+#EXTINF:-1 tvg-id="c1aa95dd85b39c26c85d47490966139a" tvg-chno="26",Cielo
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1570089665?profile=pass
+#EXTINF:-1 tvg-id="36db46866595e7914a146e75b635d194" tvg-chno="27",27Twentyseven
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/105306934?profile=pass
+#EXTINF:-1 tvg-id="830cfde9cff5abdfb6dc53aaf8bf4e06" tvg-chno="28",TV2000
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1778191491?profile=pass
+#EXTINF:-1 tvg-id="34f4309d3227ecd84f043e35dca1bfc2" tvg-chno="29",LA7d
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/489747508?profile=pass
+#EXTINF:-1 tvg-id="beedc25732eede6c85073b9c1dfc10fc" tvg-chno="30",La5
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1472392638?profile=pass
+#EXTINF:-1 tvg-id="9570be5a7c3c4586273a3a9085277f5e" tvg-chno="31",Real Time
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1522430101?profile=pass
+#EXTINF:-1 tvg-id="48e3db14573f04779962f983749fea76" tvg-chno="32",QVC HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/349954888?profile=pass
+#EXTINF:-1 tvg-id="4930fbe0cefa9cc1863a398855e39471" tvg-chno="33",Food Network
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1627074633?profile=pass
+#EXTINF:-1 tvg-id="74fdc6d360fc61c0b080095a2b3393e8" tvg-chno="34",Cine34
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1405549940?profile=pass
+#EXTINF:-1 tvg-id="4f50df6c4b75aaa7a9a25f811f0a4223" tvg-chno="35",Focus
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1826574415?profile=pass
+#EXTINF:-1 tvg-id="137eadbeeb56b3be895eeea6a5f78862" tvg-chno="36",RTL 102.5
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1051557395?profile=pass
+#EXTINF:-1 tvg-id="daea59ecf62d4a3759c78d7b5cf83428" tvg-chno="37",37
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1817832154?profile=pass
+#EXTINF:-1 tvg-id="c93ba4666726857482a1145a193adc38" tvg-chno="38",GIALLO
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1722039241?profile=pass
+#EXTINF:-1 tvg-id="d69005105b9212a66f246f15ac622427" tvg-chno="39",TOPcrime
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/268800214?profile=pass
+#EXTINF:-1 tvg-id="03857a0d58b7ca87961d7656004c8f44" tvg-chno="40",Boing
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/226133251?profile=pass
+#EXTINF:-1 tvg-id="65f951056aef96c0fd4f66d8c1456a21" tvg-chno="41",K2
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/89258341?profile=pass
+#EXTINF:-1 tvg-id="9ae9fc75cbd23738c5ed5d813fd3881b" tvg-chno="42",Rai Gulp
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1979509146?profile=pass
+#EXTINF:-1 tvg-id="02bcbd1295e599ee6f5cc9e4042c9213" tvg-chno="43",Rai YoYo
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/314424322?profile=pass
+#EXTINF:-1 tvg-id="e53c357054dc8100a2ee898d218caccc" tvg-chno="44",frisbee
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1882537189?profile=pass
+#EXTINF:-1 tvg-id="e4a7226c8cdaed622edf0ec88224797c" tvg-chno="45",Boing Plus
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1814210532?profile=pass
+#EXTINF:-1 tvg-id="0d9c8103b948be83ecbb59c192e69046" tvg-chno="46",Cartoonito
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/58825741?profile=pass
+#EXTINF:-1 tvg-id="b08379345dfa258c6c8e60a98eb4f696" tvg-chno="47",Super!
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/880378800?profile=pass
+#EXTINF:-1 tvg-id="383169ab00c86fe53d560e4c53ab3b7c" tvg-chno="48",Rai News 24
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/728314168?profile=pass
+#EXTINF:-1 tvg-id="8955554af9c5e9204ffebe2da0b0b2ec" tvg-chno="49",Mediaset Italia2
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1247106441?profile=pass
+#EXTINF:-1 tvg-id="124336fa58c295160cf9ddcc8fdd9f42" tvg-chno="50",Sky TG24
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2050376466?profile=pass
+#EXTINF:-1 tvg-id="99e40eb6c8bd1d9f274448875beb1aac" tvg-chno="51",TGCOM24
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/906945689?profile=pass
+#EXTINF:-1 tvg-id="029398efd0f77da220ed5fa4171d8327" tvg-chno="52",DMAX
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1872270082?profile=pass
+#EXTINF:-1 tvg-id="bba5e7cf4d83e715239d4975081d5675" tvg-chno="53",Italia 53
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1340581307?profile=pass
+#EXTINF:-1 tvg-id="49539b8869e99c24bf72b46653f4b6fa" tvg-chno="54",Rai Storia
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/144397129?profile=pass
+#EXTINF:-1 tvg-id="42a6889514ed98d956fffd805d0e9646" tvg-chno="56",HGTV - Home&Garden
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/361276994?profile=pass
+#EXTINF:-1 tvg-id="59c641eb90202192647ef82554f521b1" tvg-chno="57",Rai Scuola
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1799472729?profile=pass
+#EXTINF:-1 tvg-id="bdf875400103d0c1ba326f81be3d4843" tvg-chno="58",Rai Sport + HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1081473213?profile=pass
+#EXTINF:-1 tvg-id="5bdb651586b61282c2862699a6ada4fa" tvg-chno="59",Motor Trend
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/358996827?profile=pass
+#EXTINF:-1 tvg-id="f18ab093b1b0a10ffe5efd1ce03d8793" tvg-chno="60",SPORTITALIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/330337009?profile=pass
+#EXTINF:-1 tvg-id="11b42399c97e9e9a2002603c0adedc43" tvg-chno="61",SOLOCALCIO
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/421770257?profile=pass
+#EXTINF:-1 tvg-id="b339dc4c56ee8a27304f4a2bdcc2476c" tvg-chno="62",DONNA SPORT TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1289501107?profile=pass
+#EXTINF:-1 tvg-id="79fe02ecf6eef66d3404a012642b1888" tvg-chno="63",GM24.IT
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1812135545?profile=pass
+#EXTINF:-1 tvg-id="6967acfab5ee3fc3820d0b1fb13af874" tvg-chno="64",SUPERTENNIS
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2058119017?profile=pass
+#EXTINF:-1 tvg-id="b238cd213c71213937da75886a6a3e96" tvg-chno="65",ALMA TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/567097522?profile=pass
+#EXTINF:-1 tvg-id="1c35a922063dc662e8a36381c34e4b36" tvg-chno="66",RADIO 105
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/581514524?profile=pass
+#EXTINF:-1 tvg-id="ae21dbbc00e695fa11459a3d94d14eaa" tvg-chno="67",R101 TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1020993966?profile=pass
+#EXTINF:-1 tvg-id="76faed5ba84cf3347d0715da8df78d4f" tvg-chno="68",BOM CHANNEL
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1542322806?profile=pass
+#EXTINF:-1 tvg-id="c16a34f3426997eee4d740548dc6b08a" tvg-chno="69",Deejay TV HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1932815041?profile=pass
+#EXTINF:-1 tvg-id="d6a2b6ca7a3d7910bb5de286eae61f69" tvg-chno="70",RadioItaliaTV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1253483222?profile=pass
+#EXTINF:-1 tvg-id="da8ae74f3104bfaa28a9c9d69f8bae2c" tvg-chno="76",TeleRoma 56 Sport
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1340574426?profile=pass
+#EXTINF:-1 tvg-id="e44084dc5c8b18b7444480d77891bbb3" tvg-chno="77",RETE ORO
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1552171236?profile=pass
+#EXTINF:-1 tvg-id="4ee316ae8aabb858fbc8abac87e43dcf" tvg-chno="78",CANALE ITALIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/773251918?profile=pass
+#EXTINF:-1 tvg-id="9661a1a16164e9de85a464f148e50560" tvg-chno="79",Made In Calabria
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/564224406?profile=pass
+#EXTINF:-1 tvg-id="56ee97ea2ee6b6106ff4efaff0c024d4" tvg-chno="80",TRL
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1788341846?profile=pass
+#EXTINF:-1 tvg-id="5ca1f78fa1541be081ccb575fbdf1b91" tvg-chno="81",Canale 81 Lazio
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/267886940?profile=pass
+#EXTINF:-1 tvg-id="ffa6ffa1afe69fc690e415acab088403" tvg-chno="82",RomaTV 82
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/570402559?profile=pass
+#EXTINF:-1 tvg-id="44abc481ca5700a1ec9335fb458d8ea3" tvg-chno="83",TELEROMADUE
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/29666116?profile=pass
+#EXTINF:-1 tvg-id="377cf07a764d2f2c76e0bea4d30a0ab8" tvg-chno="84",7 GOLD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2062580791?profile=pass
+#EXTINF:-1 tvg-id="9b58595b4f93c2444f396dddec3eb683" tvg-chno="85",Cittaceleste Tv la Tv dei Tifosi della Lazio
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1532582043?profile=pass
+#EXTINF:-1 tvg-id="1bc0bdd16fda754ace4080464c8c5d61" tvg-chno="86",Tele In
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1371389979?profile=pass
+#EXTINF:-1 tvg-id="209fbd304bc83452e4f2f619e5464252" tvg-chno="87",RTR 99 TV 680
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/817733408?profile=pass
+#EXTINF:-1 tvg-id="34c1be4cdeff1a69898147430ec4d95c" tvg-chno="88",NSL
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1287569716?profile=pass
+#EXTINF:-1 tvg-id="1c5d8461a008f1e5e2bfffb613b38182" tvg-chno="95",TELEITALIA 41
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1636064540?profile=pass
+#EXTINF:-1 tvg-id="a418db783d53984772be91511ea69fb0" tvg-chno="96",RADIO RADIO TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2027624612?profile=pass
+#EXTINF:-1 tvg-id="37c29e3e3df125c60472ca24a0046016" tvg-chno="97",TELEROMAUNO
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1050591799?profile=pass
+#EXTINF:-1 tvg-id="54dcce8176af28dc69322aeaa952bc47" tvg-chno="99",TRC
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/30334036?profile=pass
+#EXTINF:-1 tvg-id="b34da99964d56f5452ea5fee458596df" tvg-chno="103",Rai 3 HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/430525875?profile=pass
+#EXTINF:-1 tvg-id="2a79e8ec18e25a8c2300823fb9371667" tvg-chno="104",Rete4 (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1827174698?profile=pass
+#EXTINF:-1 tvg-id="ed0260975cd63fb5b6d6cec15375136c" tvg-chno="105",Canale5 (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/392168173?profile=pass
+#EXTINF:-1 tvg-id="8f7e822609806734cfece8e9a93cf2a0" tvg-chno="106",Italia1 (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/646086287?profile=pass
+#EXTINF:-1 tvg-id="67bed189a209ed25b30c9aedeeed5e51" tvg-chno="107",LA7 (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/164740711?profile=pass
+#EXTINF:-1 tvg-id="616cf1a69db979af76c382e724ce7dae" tvg-chno="108",TV8 HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/653356129?profile=pass
+#EXTINF:-1 tvg-id="5fef1369402bb6bc74d3c3128440f4b8" tvg-chno="109",NOVE (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1762914143?profile=pass
+#EXTINF:-1 tvg-id="5d4b48844fc427d5767db0a158c2227a" tvg-chno="110",RETESOLE
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/71846749?profile=pass
+#EXTINF:-1 tvg-id="1d804d52e5129a11b0f44a43ddb9cbd4" tvg-chno="111",TELE IN INFORMAZIONE
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1380810781?profile=pass
+#EXTINF:-1 tvg-id="df5a417bf1888c01a24edce9917f2e4e" tvg-chno="117",TV YES
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2067880671?profile=pass
+#EXTINF:-1 tvg-id="81543d61c464a9d7e6ba829c7abb4b93" tvg-chno="118",TR118
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1631409281?profile=pass
+#EXTINF:-1 tvg-id="ca15266be806a4ca5c07c0691a138c38" tvg-chno="120",20Mediaset (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1797658058?profile=pass
+#EXTINF:-1 tvg-id="8259f1fba3dc0b291a915a028584d83a" tvg-chno="121",ITALIA 121
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2079414658?profile=pass
+#EXTINF:-1 tvg-id="0e8032f1bf968c7b7c1333618da281de" tvg-chno="123",ITALIA CHANNEL
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1899134990?profile=pass
+#EXTINF:-1 tvg-id="d95ddf19c423eb5bc22e1d36440984d8" tvg-chno="124",ARTE ITALIA 124
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/434068953?profile=pass
+#EXTINF:-1 tvg-id="0600f92340cfdf13cd2f5f69c323022d" tvg-chno="125",ARTE ITALIA 125
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/603521030?profile=pass
+#EXTINF:-1 tvg-id="535f62722700200fd990ed3080e11cc5" tvg-chno="126",ITALIA 126
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1919049555?profile=pass
+#EXTINF:-1 tvg-id="7a756e0f0b1d3b76c467b44720dd8aa7" tvg-chno="127",ITALIA 127
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/258897274?profile=pass
+#EXTINF:-1 tvg-id="4a4a60f7915d8638c7e765da47bae408" tvg-chno="128",GOLD TV ITALIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2002799178?profile=pass
+#EXTINF:-1 tvg-id="11196de7a6affa46f32777ea72e1faa1" tvg-chno="129",LA 4 ITALIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1735203089?profile=pass
+#EXTINF:-1 tvg-id="efbf1ee2afb8856e46b5229400a04b58" tvg-chno="130",CHANNEL 24
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1646182383?profile=pass
+#EXTINF:-1 tvg-id="5302bfede8fff9bdd787b0100c752ef4" tvg-chno="131",RETE ITALIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1841234515?profile=pass
+#EXTINF:-1 tvg-id="9fd213a17e46eebe2c843db39eaad5fa" tvg-chno="132",LINEAGEM
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/554947231?profile=pass
+#EXTINF:-1 tvg-id="86d5de9b2d0c7531690d64ee29ee2512" tvg-chno="133",ArteInvestimenti
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/467588486?profile=pass
+#EXTINF:-1 tvg-id="32748e4d8a4900853a90fef2289952e7" tvg-chno="134",ITALIA 134
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1301181490?profile=pass
+#EXTINF:-1 tvg-id="66c14067d7fcddf7ba50fa39f09f9956" tvg-chno="135",ITALIA 135
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1732297062?profile=pass
+#EXTINF:-1 tvg-id="5c5d9205225e197edce590aacd91ad34" tvg-chno="136",ITALIA 136
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/93478236?profile=pass
+#EXTINF:-1 tvg-id="32efc6fcdb4652f0e20a2fb66dc5971e" tvg-chno="137",INLINEA TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2093412146?profile=pass
+#EXTINF:-1 tvg-id="ba2823a24b115cc509bb2105a04fca2a" tvg-chno="138",TELECAMPIONE
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/572729530?profile=pass
+#EXTINF:-1 tvg-id="c8567b71f75416278547ea74d6c839ca" tvg-chno="139",DELUXE 139
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1903908552?profile=pass
+#EXTINF:-1 tvg-id="0c69f063040257538cb5cbb990c7c8e1" tvg-chno="140",LINEA ITALIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1676699916?profile=pass
+#EXTINF:-1 tvg-id="a67e7bf76ca07d6198749899a75b18a0" tvg-chno="141",Italia 141
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2004582054?profile=pass
+#EXTINF:-1 tvg-id="73ee85cb91d09d916af58cbf4575bd0a" tvg-chno="142",ITALIA 142
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1267068531?profile=pass
+#EXTINF:-1 tvg-id="15f65c4e863347c7001c37657f703f21" tvg-chno="143",ITALIA 143
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1314715157?profile=pass
+#EXTINF:-1 tvg-id="354111a585c42755c45a318ce3040887" tvg-chno="144",ORLER TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/621887797?profile=pass
+#EXTINF:-1 tvg-id="6a6de564bb8026dc14648c8307b3cc74" tvg-chno="145",PADRE PIO TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1692757354?profile=pass
+#EXTINF:-1 tvg-id="4eb26ea9e9b3cf23d09dc50519b797a2" tvg-chno="146",Rai Sport
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/695120462?profile=pass
+#EXTINF:-1 tvg-id="f606f49e9192c320b87eca221fa62a03" tvg-chno="147",FIRE TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/519309046?profile=pass
+#EXTINF:-1 tvg-id="088150d5fecc05c2a29b0254b175b1cf" tvg-chno="148",ITALIA 148
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1431339272?profile=pass
+#EXTINF:-1 tvg-id="e133f606535bd6dae28b3b6887d651ff" tvg-chno="150",Italia 150
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/116798433?profile=pass
+#EXTINF:-1 tvg-id="4541f51f8d9dc797de74b1e04cd05b52" tvg-chno="151",EQUtv
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/536166725?profile=pass
+#EXTINF:-1 tvg-id="db4d7c68f447701099c35fe2165eed67" tvg-chno="153",TV 153
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1752976859?profile=pass
+#EXTINF:-1 tvg-id="cd39ec6379c3f6bc64985314b68348a4" tvg-chno="154",ITALIA 154
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1676425677?profile=pass
+#EXTINF:-1 tvg-id="64df7d31ceaaa947b689b81a7e7cbca4" tvg-chno="155",ITALIA 155
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/830332772?profile=pass
+#EXTINF:-1 tvg-id="6a4c4a1ce86d3f73b385af7068f13510" tvg-chno="156",ITALIA 156
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/474631274?profile=pass
+#EXTINF:-1 tvg-id="c4174bd5f1422ece1bcf085dd1d47959" tvg-chno="158",RADIO KISS KISS TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1430984644?profile=pass
+#EXTINF:-1 tvg-id="af092af5ff4496e27342123a9b239ffd" tvg-chno="159",ITALIA 159
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1965689263?profile=pass
+#EXTINF:-1 tvg-id="666775572bbe49d618bceefc2eb68941" tvg-chno="160",ITALIA 160
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1467311974?profile=pass
+#EXTINF:-1 tvg-id="2856a52a7c25f6a16e453e282ecc856c" tvg-chno="161",ITALIA 161
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/715478568?profile=pass
+#EXTINF:-1 tvg-id="1cd8971dbed82dd22dda36db809c42c4" tvg-chno="162",CANALE 162
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/496490524?profile=pass
+#EXTINF:-1 tvg-id="4ca97252084622fc27343420d9a3ea28" tvg-chno="164",ITALIA 164
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1383246156?profile=pass
+#EXTINF:-1 tvg-id="6bab6bc3c3a859ee8f70a417dff1548e" tvg-chno="165",CANALE 165
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1131129707?profile=pass
+#EXTINF:-1 tvg-id="c4ed12e41e54a427b23be0d2782f8edb" tvg-chno="166",Mediatext.it
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1678962116?profile=pass
+#EXTINF:-1 tvg-id="651f5fa623ff006cdbd63a45e10f638a" tvg-chno="167",VH1
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/643768165?profile=pass
+#EXTINF:-1 tvg-id="9409fbfb12925aa8b38a86848ab1d430" tvg-chno="170",PRIMA FREE
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2080049556?profile=pass
+#EXTINF:-1 tvg-id="811c6dfa5fb4499b718926af81e59b9b" tvg-chno="177",RTR
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2053971073?profile=pass
+#EXTINF:-1 tvg-id="d0670e98d0dc7439174cb6e09f3a97bb" tvg-chno="180",ROMIT TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/403597264?profile=pass
+#EXTINF:-1 tvg-id="2b5ecae9baf7aff57a940a9c0d451e08" tvg-chno="191",RADIO 4 YOU TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1774870059?profile=pass
+#EXTINF:-1 tvg-id="7275fd3a950909643e1c06a0d776c82c" tvg-chno="194",EXTRA TV LIVE
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/989689202?profile=pass
+#EXTINF:-1 tvg-id="07ab5bba51e8e1674ef0ec76c6804bb9" tvg-chno="202",Rai Radio 2 Visual Radio
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/979086087?profile=pass
+#EXTINF:-1 tvg-id="ff221e3fcf02e70fc2db18f954930e64" tvg-chno="203",Rai 3 HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1058939647?profile=pass
+#EXTINF:-1 tvg-id="f145514f60ca3d22b698fca669303598" tvg-chno="211",RADIO LATINA TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1330726385?profile=pass
+#EXTINF:-1 tvg-id="5c7f2c419a0f2bba340b7a5c10b3d428" tvg-chno="212",RADIO IMMAGINE TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1093435228?profile=pass
+#EXTINF:-1 tvg-id="0a3fa74685161975e33bab6033420d79" tvg-chno="220",AP CHANNEL
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1185365770?profile=pass
+#EXTINF:-1 tvg-id="f64e57d579e710b446256981d75a987e" tvg-chno="222",AMICI PER L ITALIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1431785206?profile=pass
+#EXTINF:-1 tvg-id="4993164bfb8921c6218f51bd21d24a6e" tvg-chno="226",WELCOME IN
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1259770697?profile=pass
+#EXTINF:-1 tvg-id="b5529d61884bcf8ea2ad7b18bbe1d6db" tvg-chno="229",LA7d
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1637700277?profile=pass
+#EXTINF:-1 tvg-id="d63b826ede39b9a4abd6fd4e9adedfd9" tvg-chno="231",FASCINO TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1854028758?profile=pass
+#EXTINF:-1 tvg-id="92e89401a0d058dfc382b389b6b2a3c3" tvg-chno="232",CANALE 232
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/26536082?profile=pass
+#EXTINF:-1 tvg-id="520cfebd28172f2ed5d60649f70c1b7e" tvg-chno="233",RTL 102.5 NEWS
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1040059474?profile=pass
+#EXTINF:-1 tvg-id="de0c516913bb97a45a8045638d854772" tvg-chno="234",CUSANO NEWS 7
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1766919390?profile=pass
+#EXTINF:-1 tvg-id="8f1f9e2d71bdbe6257516eeaccd0f16c" tvg-chno="239",CANALE 239
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/765337487?profile=pass
+#EXTINF:-1 tvg-id="1675f591a8f9b1e0a5dc1f70ef66d460" tvg-chno="241",ITALIA 241
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/301298966?profile=pass
+#EXTINF:-1 tvg-id="cdd95858456354f4693dccb3b6291647" tvg-chno="245",PAROLE DI VITA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1482217933?profile=pass
+#EXTINF:-1 tvg-id="489cd708011d4cca015ae3cd17049518" tvg-chno="248",TCI
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/148347976?profile=pass
+#EXTINF:-1 tvg-id="34783ae893e2e5aaf6edf596c9a65e81" tvg-chno="251",PIANETA TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1748662324?profile=pass
+#EXTINF:-1 tvg-id="9da2b96276f0152084c2fd292245573c" tvg-chno="252",RADIO LIBERTA'
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1656332957?profile=pass
+#EXTINF:-1 tvg-id="171b994a6bc0a078f72d15fa0701e7a9" tvg-chno="253",RADIO RADIO TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1251547927?profile=pass
+#EXTINF:-1 tvg-id="b218ade1dbbf1a7e5dea2f9ea6ef2f90" tvg-chno="258",RADIOFRECCIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1638734002?profile=pass
+#EXTINF:-1 tvg-id="390dc0d4455374b71d5603a835886a2a" tvg-chno="259",BIKE
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1421872441?profile=pass
+#EXTINF:-1 tvg-id="880817a63838c831e467881b6efc324c" tvg-chno="260",BFC
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/639043720?profile=pass
+#EXTINF:-1 tvg-id="27cae34dba122812776062d6e8eda28c" tvg-chno="262",Byoblu
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1306774055?profile=pass
+#EXTINF:-1 tvg-id="24c64fc6147c0dc54295dfdbcfb8f226" tvg-chno="264",CUSANO ITALIA TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1179633188?profile=pass
+#EXTINF:-1 tvg-id="81da031c57941ac647c97370f9bfe781" tvg-chno="265",RDS Social TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/470014593?profile=pass
+#EXTINF:-1 tvg-id="6bbce2a292cd970faa90c8407dc88d21" tvg-chno="266",RADIO ZETA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/585284715?profile=pass
+#EXTINF:-1 tvg-id="152caec992a19dcd24133962b7d37300" tvg-chno="267",VH1
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1236151317?profile=pass
+#EXTINF:-1 tvg-id="235669c66550cb3a75ea931879570b0e" tvg-chno="411",PREMIO SPORT
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1181308451?profile=pass
+#EXTINF:-1 tvg-id="00811d665e7b3ddaf01c10c214003860" tvg-chno="413",PREMIO ACTION
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1713209600?profile=pass
+#EXTINF:-1 tvg-id="be9eefcfe341a776aebb2dbbaac35df7" tvg-chno="414",ZONA DAZN
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1341103806?profile=pass
+#EXTINF:-1 tvg-id="5e7e3f5e9860930b870835d4227240ba" tvg-chno="415",ZONA DAZN 2
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1581219422?profile=pass
+#EXTINF:-1 tvg-id="e419da70b1162e81c3054c0aae8d0a21" tvg-chno="441",PREMIO TIME
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1893341668?profile=pass
+#EXTINF:-1 tvg-id="fb696113714776593b5be09ebf957052" tvg-chno="472",Sky Sport Uno HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/325151227?profile=pass
+#EXTINF:-1 tvg-id="ecb1fb64705bd8bff06577e7397e50df" tvg-chno="473",Sky Sport Calcio HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1694216684?profile=pass
+#EXTINF:-1 tvg-id="116bad3da62ac017dbc8324598baebcc" tvg-chno="501",Rai 1 SD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1034775313?profile=pass
+#EXTINF:-1 tvg-id="7234f66f84b646164991aea3f126990d" tvg-chno="502",Rai 2 SD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1878406258?profile=pass
+#EXTINF:-1 tvg-id="9b57da08bd7c990b9d4913beb2956ffd" tvg-chno="503",Rai 3 SD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/148527003?profile=pass
+#EXTINF:-1 tvg-id="b18194b735def22cdd33f3d054ac8c1b" tvg-chno="504",Rete4 (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/932479409?profile=pass
+#EXTINF:-1 tvg-id="c83da8c5d5fe5c57c753df116f7e7984" tvg-chno="505",Canale5 (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1168653768?profile=pass
+#EXTINF:-1 tvg-id="b248c13dbd32fe9c83063daebf8f2a90" tvg-chno="506",Italia1 (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1036077234?profile=pass
+#EXTINF:-1 tvg-id="cc8a2d1d5158e4484ca85d15c1000849" tvg-chno="507",LA7 (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/489523916?profile=pass
+#EXTINF:-1 tvg-id="243e53f102d2b4d6f56821ddf9309971" tvg-chno="508",TV8 HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1901280804?profile=pass
+#EXTINF:-1 tvg-id="d07d7b89bf2e7f24f1f7a51eed0778c9" tvg-chno="509",NOVE (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/159088080?profile=pass
+#EXTINF:-1 tvg-id="7bbfee2d196dcf3c483d704cb9813cd0" tvg-chno="520",20Mediaset (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/770621307?profile=pass
+#EXTINF:-1 tvg-id="42207dcd76fde884a6c415312ca2f582" tvg-chno="522",Iris (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1300045890?profile=pass
+#EXTINF:-1 tvg-id="a20cbf45e79df9a631389a6b096a22be" tvg-chno="527",27Twentyseven (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1170148514?profile=pass
+#EXTINF:-1 tvg-id="e767f409cce83366faf5f981a0ed3d2d" tvg-chno="528",TV2000
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/167012327?profile=pass
+#EXTINF:-1 tvg-id="252b7c9fbd999ac41391af3eb5655b38" tvg-chno="529",LA7d
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/528231205?profile=pass
+#EXTINF:-1 tvg-id="6273b71b79cd0d8122266df0e8c3777f" tvg-chno="530",La5 (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/465007458?profile=pass
+#EXTINF:-1 tvg-id="635e03a119518812ad641dc64056fd46" tvg-chno="531",RADIO ZETA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/553868899?profile=pass
+#EXTINF:-1 tvg-id="236f522f2f7f40254e68277534a60520" tvg-chno="532",RADIOFRECCIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/793931555?profile=pass
+#EXTINF:-1 tvg-id="090042d8c271af1067a612b0abc09b15" tvg-chno="533",RTL 102.5 NEWS
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1480720393?profile=pass
+#EXTINF:-1 tvg-id="8199c123651ba8eb5ee13bc5fcf6212d" tvg-chno="534",Cine34 (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/599890305?profile=pass
+#EXTINF:-1 tvg-id="5fc9960f80d827b72b93e762292cdfc3" tvg-chno="535",Focus (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/261540191?profile=pass
+#EXTINF:-1 tvg-id="afe303373d9b7288586928bba8124861" tvg-chno="536",RTL 102.5
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/923001775?profile=pass
+#EXTINF:-1 tvg-id="2d46adfcf88982240afff6d6489292ad" tvg-chno="537",37
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2091730477?profile=pass
+#EXTINF:-1 tvg-id="0e44c50aa33b31f8a167424d391dd77d" tvg-chno="539",TOPcrime (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/180700174?profile=pass
+#EXTINF:-1 tvg-id="f99ea34226351f09c02fc2a0fdd4d991" tvg-chno="540",Boing
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1118019321?profile=pass
+#EXTINF:-1 tvg-id="b871b523f3b69f8681d8c0e54f085a2e" tvg-chno="545",Boing Plus
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/599093688?profile=pass
+#EXTINF:-1 tvg-id="47cb734af06a4d4c51e1148872e2b530" tvg-chno="546",Cartoonito
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1249102663?profile=pass
+#EXTINF:-1 tvg-id="ddee105d3e5bb85de7eeda256c6b5569" tvg-chno="549",Mediaset Italia2
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1561390813?profile=pass
+#EXTINF:-1 tvg-id="e7b92c5711979684c5f3c0ebacda3944" tvg-chno="551",TGCOM24
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1462548967?profile=pass
+#EXTINF:-1 tvg-id="ca5e6ecfca9a67da7386fc18b83c1012" tvg-chno="556",Mediaset Extra (provvisorio)
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1332633290?profile=pass
+#EXTINF:-1 tvg-id="c283f49c44845913d115feda81c56994" tvg-chno="560",SPORTITALIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/485786562?profile=pass
+#EXTINF:-1 tvg-id="ade72154c543196c2705632b66f46297" tvg-chno="566",RADIO 105
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1411508141?profile=pass
+#EXTINF:-1 tvg-id="0a9ee489a6d34a394b19dfdb25096be8" tvg-chno="567",R101 TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/165977610?profile=pass
+#EXTINF:-1 tvg-id="8eb4d53769393f0fa51c12ace1e8560a" tvg-chno="569",Deejay TV HD
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/936752270?profile=pass
+#EXTINF:-1 tvg-id="e5ee2495a6cc4a25d8187e277271eb7f" tvg-chno="570",RadioItaliaTV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/354741989?profile=pass
+#EXTINF:-1 tvg-id="15f8cfc458cb5cd6327197ce33242b6f" tvg-chno="666",ERRETIESSE TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1154480149?profile=pass
+#EXTINF:-1 tvg-id="02941e9b2ff7dbe54ac6e669c4ebfa81" tvg-chno="701",Rai Radio 1
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/454988802?profile=pass
+#EXTINF:-1 tvg-id="369de54ea9da0e3e72e50d626731ceaf" tvg-chno="702",Rai Radio 2
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1323670838?profile=pass
+#EXTINF:-1 tvg-id="9f800467d870cb1d75005eb289c3c82f" tvg-chno="703",Rai Radio 3
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1728348319?profile=pass
+#EXTINF:-1 tvg-id="8ac5c763154d075d4a879dce7b031bf8" tvg-chno="704",Rai Gr Parlamento
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1674036618?profile=pass
+#EXTINF:-1 tvg-id="49debe38a8d81e0ff288807af99436b5" tvg-chno="705",Rai Isoradio
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/952032841?profile=pass
+#EXTINF:-1 tvg-id="c4099406deadf9c830786eee3af7fa71" tvg-chno="706",Rai Radio 3 Classica
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/110365124?profile=pass
+#EXTINF:-1 tvg-id="ab4ec45cc1a9d910dc13dcf10dfd9ef1" tvg-chno="707",Rai Radio Kids
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1556369067?profile=pass
+#EXTINF:-1 tvg-id="72fe8ff3f2c4238e0617031afed758a9" tvg-chno="708",Rai Radio Live
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1938816626?profile=pass
+#EXTINF:-1 tvg-id="4eef2566165fc883140c1eaad76b3e62" tvg-chno="709",Rai Radio Techete'
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1713762126?profile=pass
+#EXTINF:-1 tvg-id="dd65f803a42beab840570a7074293958" tvg-chno="710",Rai Radio Tutta Italiana
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/66610653?profile=pass
+#EXTINF:-1 tvg-id="72e18a6fed76212f60315dc72b05bd03" tvg-chno="711",Rai Radio 1 Sport
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1871372658?profile=pass
+#EXTINF:-1 tvg-id="42d7034332e7a8e18fbaf1aea5353426" tvg-chno="712",Rai Radio 2 Indie
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1124325186?profile=pass
+#EXTINF:-1 tvg-id="95468e4e6554fb2e335234bb20f15c2a" tvg-chno="713",Radio Capital
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1317947029?profile=pass
+#EXTINF:-1 tvg-id="90fe8c2b1c0def8dfb5c7817511575cb" tvg-chno="714",Radio Deejay
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/730660496?profile=pass
+#EXTINF:-1 tvg-id="1dbbcbdcdc88dd09328449feea7e8137" tvg-chno="715",Radio m2o
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1556855581?profile=pass
+#EXTINF:-1 tvg-id="c143202e405813d6e1c13b7a9cb3c5e6" tvg-chno="724",RDS Social TV
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/773866433?profile=pass
+#EXTINF:-1 tvg-id="c88051c8fb5cbec38ccb71b36a0f7a87" tvg-chno="733",RADIO VATICANA ITALIA
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1213300936?profile=pass
+#EXTINF:-1 tvg-id="bb8ed1691d6c31d7510b1a08ce5ac0c7" tvg-chno="736",RTL 102.5
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1775341243?profile=pass
+#EXTINF:-1 tvg-id="ecd5737ca31b7d58154506361cd57386" tvg-chno="770",R Italia SMI
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/2087966188?profile=pass
+#EXTINF:-1 tvg-id="328f98c75e9dd096ea43d3ef339f5989" tvg-chno="771",Radio R101
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1201180466?profile=pass
+#EXTINF:-1 tvg-id="fde0ff8fce756d25a4517208ee0b439a" tvg-chno="785",RADIO 105
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/268427517?profile=pass
+#EXTINF:-1 tvg-id="4ac82e57467524b220ede0ba5933ee3a" tvg-chno="786",VIRGIN RADIO
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1462683722?profile=pass
+#EXTINF:-1 tvg-id="7f27589960bc7a35b999e800d150b0b7" tvg-chno="789",Radio Maria
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/425207679?profile=pass
+#EXTINF:-1 tvg-id="75ca36cbab98bb307d9a0f58778cf3e1" tvg-chno="812",Rai 3 TGR Toscana
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1261881973?profile=pass
+#EXTINF:-1 tvg-id="4a4b33b02b5b8fbbae37183c7f98268c" tvg-chno="814",Rai 3 TGR Umbria
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/808667978?profile=pass
+#EXTINF:-1 tvg-id="0ed7ceb08776bc41795d571718e64592" tvg-chno="815",Rai 3 TGR Lazio
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/818861838?profile=pass
+#EXTINF:-1 tvg-id="3f829ed89349bf38c4e63d601e1ffa3c" tvg-chno="831",RTV San Marino
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/1486783039?profile=pass
+#EXTINF:-1 tvg-id="066e65a7f2ffd7945e987142b9eaf308" tvg-chno="997",LA7 on demand
+http://alessandro:alessandro@192.168.178.15:9981/stream/channelid/660958726?profile=pass
