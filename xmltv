@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Example">
+    <channel id="hdmi1">
+        <display-name>HDMI Capture UGREEN</display-name>
+    </channel>
+
+    <programme start="20250830120000 +0000" stop="20250830130000 +0000" channel="hdmi1">
+        <title>Test Show</title>
+        <desc>Descrizione del programma di prova.</desc>
+    </programme>
+</tv>
